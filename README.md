@@ -1,2 +1,0 @@
-# WireSheep-README.md
-Kxxx
